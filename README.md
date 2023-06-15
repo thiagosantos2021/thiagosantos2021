@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋, I'm Thiago Santos dos Anjos
+
+A fullstack developer student from Brazil 
+
+🌱 I’m currently learning HTML5, CSS3, JavaScript, Python, Java and React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <!--
 **thiagosantos2021/thiagosantos2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
