@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Thiago Santos dos Anjos
 
-A fullstack developer student from Brazil 
+### A fullstack developer student from Brazil 
 
-### 🔭 I’m currently working on IBGE...
+### 🔭 I’m currently working on IBGE
 
 ### 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python, Java and React
 <div>
@@ -17,7 +17,7 @@ A fullstack developer student from Brazil
 ### 📫 Como entrar em contato comigo:
 <div>
 <a href="https://www.linkedin.com/in/thiago-santos-96a18b20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/https://web.facebook.com/thiagosantos.dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-Facebook%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://web.facebook.com/thiagosantos.dosanjos/" target="_blank"><img src="https://img.shields.io/badge/-Facebook%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
 ### Minhas Estatísticas:
