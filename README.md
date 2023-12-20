@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Thiago Santos dos Anjos
 
-### A Frontend developer student from Brazil
+### A FullStack developer student from Brazil
 
 ### 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python, Java and React
 <div>
